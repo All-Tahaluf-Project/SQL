@@ -1,0 +1,54 @@
+Create a database design for a restaurant with the following requirements:
+ 
+
+Inventory Module for the ingredients (provide threshold for Auto Order/Reorder which can be assigned by the Admin)
+
+Orders Module with two reports (daily orders and specific intervals)
+
+Sales Module (including two reports for extracting the Net profit per sale for Daily and specific intervals.
+
+Create a new Customer (made by the call center employee)
+
+A page for adding the orders (for the new customer or existing customer, and assign a delivery employee.
+
+A page for adding an employee and assign him/her to the Deliveries team or Chefs team or management team (create Role based pages)
+
+Meals Module (CRUD)
+
+Offers Module (CRUD)
+
+Displaying the meals in a nice way with the ability to search via (Price, category, cuisine, and ingredients)
+
+about, contact Home, Testimonials, reviews, etc pages
+
+login page for the admin/Staff ( Admin, Delivery, Chef, Purchase, Call Center )
+
+Modules:
+
+Meals Module
+
+Sales Module
+
+Offers Module
+
+Orders Module
+
+Inventory Module
+
+HR Module
+
+User Types:
+
+Admin: create other users and update their information.
+Delivery: receives the order and the destination.
+
+Chef: receives the order and start preparing.
+
+Purchase: get information on materials needed for the restaurant such as ingredients packaging tools etc.
+
+Call Center: get the calls from the customers or via online order. Then add it the system to get a number and to be prepared.
+
+populate the database with 5 records for all the tables.
+
+​​​​​​​and send me the SQL Scripts plus the document file.
+
